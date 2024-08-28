@@ -1,0 +1,22 @@
+Q1:  What responsibility does Irancell disclaim 
+regarding damaged packages received by the Customer?
+
+Context1: The Customer undertakes to avoid receiving damaged packages from postman.
+Irancell shall not be responsible if, after receiving the package,
+the Customer finds out that it is damaged.‌
+
+A1: Irancell disclaims responsibility for damaged packages received by the Customer.
+
+*************************
+
+Q2: What action may Irancell take if any discrepancy is discovered
+in the information provided by the Customer at the time of placing an order?
+
+Context2: The Customer undertakes to provide updated information and documents
+at the time of placing the order. In case any discrepancy is discovered
+at any stage, Irancell shall be entitled to avoid delivering the product or
+activating the service.‌‌‌‌
+
+A2: If any discrepancy is discovered in the information provided by the Customer
+at the time of placing an order, Irancell may avoid delivering the product or
+activating the service.
